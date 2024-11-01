@@ -1,0 +1,149 @@
+D:\Loja\Loja\bin\Debug\net8.0\appsettings.Development.json
+D:\Loja\Loja\bin\Debug\net8.0\appsettings.json
+D:\Loja\Loja\bin\Debug\net8.0\Loja.staticwebassets.runtime.json
+D:\Loja\Loja\bin\Debug\net8.0\Loja.exe
+D:\Loja\Loja\bin\Debug\net8.0\Loja.deps.json
+D:\Loja\Loja\bin\Debug\net8.0\Loja.runtimeconfig.json
+D:\Loja\Loja\bin\Debug\net8.0\Loja.dll
+D:\Loja\Loja\bin\Debug\net8.0\Loja.pdb
+D:\Loja\Loja\obj\Debug\net8.0\Loja.GeneratedMSBuildEditorConfig.editorconfig
+D:\Loja\Loja\obj\Debug\net8.0\Loja.AssemblyInfoInputs.cache
+D:\Loja\Loja\obj\Debug\net8.0\Loja.AssemblyInfo.cs
+D:\Loja\Loja\obj\Debug\net8.0\Loja.csproj.CoreCompileInputs.cache
+D:\Loja\Loja\obj\Debug\net8.0\Loja.MvcApplicationPartsAssemblyInfo.cache
+D:\Loja\Loja\obj\Debug\net8.0\Loja.RazorAssemblyInfo.cache
+D:\Loja\Loja\obj\Debug\net8.0\Loja.RazorAssemblyInfo.cs
+D:\Loja\Loja\obj\Debug\net8.0\staticwebassets.build.json
+D:\Loja\Loja\obj\Debug\net8.0\staticwebassets.development.json
+D:\Loja\Loja\obj\Debug\net8.0\staticwebassets\msbuild.Loja.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Loja\Loja\obj\Debug\net8.0\staticwebassets\msbuild.build.Loja.props
+D:\Loja\Loja\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Loja.props
+D:\Loja\Loja\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Loja.props
+D:\Loja\Loja\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Loja\Loja\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Loja\Loja\obj\Debug\net8.0\scopedcss\bundle\Loja.styles.css
+D:\Loja\Loja\obj\Debug\net8.0\scopedcss\projectbundle\Loja.bundle.scp.css
+D:\Loja\Loja\obj\Debug\net8.0\Loja.dll
+D:\Loja\Loja\obj\Debug\net8.0\refint\Loja.dll
+D:\Loja\Loja\obj\Debug\net8.0\Loja.pdb
+D:\Loja\Loja\obj\Debug\net8.0\Loja.genruntimeconfig.cache
+D:\Loja\Loja\obj\Debug\net8.0\ref\Loja.dll
+D:\Loja\Loja\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\Loja\Loja\bin\Debug\net8.0\Google.Protobuf.dll
+D:\Loja\Loja\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\Loja\Loja\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\Loja\Loja\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\Loja\Loja\bin\Debug\net8.0\MySql.Data.dll
+D:\Loja\Loja\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Loja\Loja\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Loja\Loja\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Loja\Loja\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Loja\Loja\bin\Debug\net8.0\ZstdSharp.dll
+D:\Loja\Loja\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\Loja\Loja\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\Loja\Loja\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Loja\Loja\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\Loja\Loja\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\Loja\Loja\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\Loja\Loja\obj\Debug\net8.0\Loja.csproj.AssemblyReference.cache
+D:\Loja\Loja\obj\Debug\net8.0\Loja.csproj.Up2Date
+C:\Users\Acer\Desktop\Loja\Loja\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Acer\Desktop\Loja\Loja\bin\Debug\net8.0\appsettings.json
+C:\Users\Acer\Desktop\Loja\Loja\bin\Debug\net8.0\Loja.staticwebassets.runtime.json
+C:\Users\Acer\Desktop\Loja\Loja\bin\Debug\net8.0\Loja.exe
+C:\Users\Acer\Desktop\Loja\Loja\bin\Debug\net8.0\Loja.deps.json
+C:\Users\Acer\Desktop\Loja\Loja\bin\Debug\net8.0\Loja.runtimeconfig.json
+C:\Users\Acer\Desktop\Loja\Loja\bin\Debug\net8.0\Loja.dll
+C:\Users\Acer\Desktop\Loja\Loja\bin\Debug\net8.0\Loja.pdb
+C:\Users\Acer\Desktop\Loja\Loja\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Acer\Desktop\Loja\Loja\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Acer\Desktop\Loja\Loja\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\Acer\Desktop\Loja\Loja\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Acer\Desktop\Loja\Loja\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\Acer\Desktop\Loja\Loja\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Acer\Desktop\Loja\Loja\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Acer\Desktop\Loja\Loja\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Acer\Desktop\Loja\Loja\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Acer\Desktop\Loja\Loja\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Acer\Desktop\Loja\Loja\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Acer\Desktop\Loja\Loja\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Acer\Desktop\Loja\Loja\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Acer\Desktop\Loja\Loja\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Acer\Desktop\Loja\Loja\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Acer\Desktop\Loja\Loja\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Acer\Desktop\Loja\Loja\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Acer\Desktop\Loja\Loja\obj\Debug\net8.0\Loja.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Loja\Loja\obj\Debug\net8.0\Loja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Loja\Loja\obj\Debug\net8.0\Loja.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Loja\Loja\obj\Debug\net8.0\Loja.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Loja\Loja\obj\Debug\net8.0\Loja.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Loja\Loja\obj\Debug\net8.0\Loja.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Acer\Desktop\Loja\Loja\obj\Debug\net8.0\Loja.RazorAssemblyInfo.cache
+C:\Users\Acer\Desktop\Loja\Loja\obj\Debug\net8.0\Loja.RazorAssemblyInfo.cs
+C:\Users\Acer\Desktop\Loja\Loja\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Acer\Desktop\Loja\Loja\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Acer\Desktop\Loja\Loja\obj\Debug\net8.0\staticwebassets\msbuild.Loja.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Acer\Desktop\Loja\Loja\obj\Debug\net8.0\staticwebassets\msbuild.build.Loja.props
+C:\Users\Acer\Desktop\Loja\Loja\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Loja.props
+C:\Users\Acer\Desktop\Loja\Loja\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Loja.props
+C:\Users\Acer\Desktop\Loja\Loja\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Acer\Desktop\Loja\Loja\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Acer\Desktop\Loja\Loja\obj\Debug\net8.0\scopedcss\bundle\Loja.styles.css
+C:\Users\Acer\Desktop\Loja\Loja\obj\Debug\net8.0\scopedcss\projectbundle\Loja.bundle.scp.css
+C:\Users\Acer\Desktop\Loja\Loja\obj\Debug\net8.0\Loja.csproj.Up2Date
+C:\Users\Acer\Desktop\Loja\Loja\obj\Debug\net8.0\Loja.dll
+C:\Users\Acer\Desktop\Loja\Loja\obj\Debug\net8.0\refint\Loja.dll
+C:\Users\Acer\Desktop\Loja\Loja\obj\Debug\net8.0\Loja.pdb
+C:\Users\Acer\Desktop\Loja\Loja\obj\Debug\net8.0\Loja.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Loja\Loja\obj\Debug\net8.0\ref\Loja.dll
+C:\Users\Acer\Desktop\Loja\Loja\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\bin\Debug\net8.0\appsettings.Development.json
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\bin\Debug\net8.0\appsettings.json
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\bin\Debug\net8.0\Loja.staticwebassets.runtime.json
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\bin\Debug\net8.0\Loja.exe
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\bin\Debug\net8.0\Loja.deps.json
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\bin\Debug\net8.0\Loja.runtimeconfig.json
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\bin\Debug\net8.0\Loja.dll
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\bin\Debug\net8.0\Loja.pdb
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\bin\Debug\net8.0\Google.Protobuf.dll
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\bin\Debug\net8.0\MySql.Data.dll
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\bin\Debug\net8.0\ZstdSharp.dll
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\obj\Debug\net8.0\Loja.csproj.AssemblyReference.cache
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\obj\Debug\net8.0\Loja.GeneratedMSBuildEditorConfig.editorconfig
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\obj\Debug\net8.0\Loja.AssemblyInfoInputs.cache
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\obj\Debug\net8.0\Loja.AssemblyInfo.cs
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\obj\Debug\net8.0\Loja.csproj.CoreCompileInputs.cache
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\obj\Debug\net8.0\Loja.MvcApplicationPartsAssemblyInfo.cache
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\obj\Debug\net8.0\Loja.RazorAssemblyInfo.cache
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\obj\Debug\net8.0\Loja.RazorAssemblyInfo.cs
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\obj\Debug\net8.0\staticwebassets.build.json
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\obj\Debug\net8.0\staticwebassets.development.json
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\obj\Debug\net8.0\staticwebassets\msbuild.Loja.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\obj\Debug\net8.0\staticwebassets\msbuild.build.Loja.props
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Loja.props
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Loja.props
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\obj\Debug\net8.0\staticwebassets.pack.json
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\obj\Debug\net8.0\scopedcss\bundle\Loja.styles.css
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\obj\Debug\net8.0\scopedcss\projectbundle\Loja.bundle.scp.css
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\obj\Debug\net8.0\Loja.csproj.Up2Date
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\obj\Debug\net8.0\Loja.dll
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\obj\Debug\net8.0\refint\Loja.dll
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\obj\Debug\net8.0\Loja.pdb
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\obj\Debug\net8.0\Loja.genruntimeconfig.cache
+D:\AULAS 2 DS-2-SEM-24-BG\Loja\Loja\obj\Debug\net8.0\ref\Loja.dll

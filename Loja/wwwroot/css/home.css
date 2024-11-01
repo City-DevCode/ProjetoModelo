@@ -1,0 +1,32 @@
+﻿.video-fundo {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    width: 100%;
+    height: 75%;
+    object-fit: cover;
+    transform: translate(-50%, -50%);
+    z-index: -1; /* Colocar o vídeo atrás do conteúdo */
+}
+
+.estica {
+    width: 100vw; /* Cobrir toda a largura da viewport */
+    margin-left: calc(50% - 50vw); /* Centralizar */
+    margin-right: calc(50% - 50vw); /* Centralizar */
+}
+
+.textinho {
+    margin-left: calc(50% - 50vw); /* Centralizar */
+    margin-right: calc(50% - 50vw); /* Centralizar */
+}
+.top-Prod {
+    margin-top: 50%;
+  
+}
+
+.containerProd {
+    display: flex;
+    flex-wrap:wrap;
+    justify-content:space-around;
+    margin:10px;
+}

@@ -1,0 +1,42 @@
+﻿@model Loja.Models.LoginUsuario
+
+@{
+    ViewData["Title"] = "Login";
+}
+<link href="~/css/login.css" rel="stylesheet" />
+
+<main class="main">
+    <section class="container login-container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="card p-4">
+                    <h5 class="card-title text-center">Login</h5>
+                    <form id="loginForm" method="post">
+                   
+                        @if (ViewData["msg"] != null)
+                        {
+                            @* O HTML Raw pode ser usado para: Procurar e baixar páginas HTML, Procurar e baixar cabeçalhos.*@
+                            <p class="alert alert-danger">@Html.Raw(ViewData["msg"])</p>
+                        }
+                        <div class="form-group">         
+                            <div class="form-group">
+                                <label for="usuario">Usuario *</label>
+                                <input asp-for="usuario" class="form-control" id="usuario" placeholder="Seu Usuario" required />
+                               
+                            </div>
+
+                            <div class="form-group">
+                                <label for="senha">Senha *</label>                           
+                                  <input asp-for="senha" class="form-control" id="senha" placeholder="Digite Sua Senha" type="password" required />                           
+                              
+                            </div>
+                            <button type="submit" class="btnEntrar ">Entrar</button>
+                            <small class="form-text  mt-5"><a href="">Esqueceu sua senha?</a></small>
+                        </div>
+                    </form>
+                </div>
+            </div>
+         </div>
+    </section>
+</main>
+

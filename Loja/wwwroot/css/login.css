@@ -1,0 +1,62 @@
+﻿body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f8f9fa;
+}
+
+.login-container {
+    margin-top: 50px;
+}
+
+.card {
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    font-weight: 600;
+    font-size: 24px;
+    margin-bottom: 20px;
+    color:blue;
+    text-transform:uppercase;
+}
+
+.form-control {
+    border-radius: 50px;
+}
+
+.form-text {
+    text-align: right;
+}
+
+
+.error-message {
+    color: red;
+    font-size: 0.9em;
+    display: none;
+}
+
+.modal-confirm {
+    color: green;
+    width: 400px;
+    margin: 30px auto;
+}
+
+.main{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-left:30%;
+}
+.btnEntrar {
+    width: 100px;
+    height: 40px;
+    border-radius: 30px;
+    background: blue;
+    color: #fff;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 40%;
+}
